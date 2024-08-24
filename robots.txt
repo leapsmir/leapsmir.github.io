@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://leapsmir.github.io/sitemap/sitemap.txt
